@@ -389,6 +389,7 @@ Outer:
 					continue Outer
 				}
 			case reflect.Map:
+				name = strings.ToLower(name)
 				ret := av.MapIndex(reflect.ValueOf(name))
 				if ret.IsValid() {
 					return ret
