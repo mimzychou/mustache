@@ -1,0 +1,47 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;mustache&gt;">
+    <CLASSES>
+      <root url="file://D:/code/ansible_go/src/test" />
+      <root url="file://D:/code/ansible_go/src/cmd" />
+      <root url="file://D:/code/ansible_go/src/execlib" />
+      <root url="file://D:/code/ansible_go/src/publickey" />
+      <root url="file://D:/code/ansible_go/src/template" />
+      <root url="file://D:/code/golang/src/opms" />
+      <root url="file://D:/code/golang/src/testpod" />
+      <root url="file://D:/code/ansible_go/src/util" />
+      <root url="file://D:/code/golang/src/k8s" />
+      <root url="file://D:/code/golang/src/golang.org" />
+      <root url="file://D:/code/ansible_go/src/conf" />
+      <root url="file://D:/code/golang/src/MyBlog" />
+      <root url="file://D:/code/golang/src/labix.org" />
+      <root url="file://D:/code/golang/src/gopkg.in" />
+      <root url="file://D:/code/golang/src/testcode" />
+      <root url="file://D:/code/golang/src/testango" />
+      <root url="file://D:/code/golang/src/ansiblego" />
+      <root url="file://D:/code/golang/src/github.com" />
+    </CLASSES>
+    <SOURCES>
+      <root url="file://D:/code/ansible_go/src/test" />
+      <root url="file://D:/code/ansible_go/src/cmd" />
+      <root url="file://D:/code/ansible_go/src/execlib" />
+      <root url="file://D:/code/ansible_go/src/publickey" />
+      <root url="file://D:/code/ansible_go/src/template" />
+      <root url="file://D:/code/golang/src/opms" />
+      <root url="file://D:/code/golang/src/testpod" />
+      <root url="file://D:/code/ansible_go/src/util" />
+      <root url="file://D:/code/golang/src/k8s" />
+      <root url="file://D:/code/golang/src/golang.org" />
+      <root url="file://D:/code/ansible_go/src/conf" />
+      <root url="file://D:/code/golang/src/MyBlog" />
+      <root url="file://D:/code/golang/src/labix.org" />
+      <root url="file://D:/code/golang/src/gopkg.in" />
+      <root url="file://D:/code/golang/src/testcode" />
+      <root url="file://D:/code/golang/src/testango" />
+      <root url="file://D:/code/golang/src/ansiblego" />
+      <root url="file://D:/code/golang/src/github.com" />
+    </SOURCES>
+    <excluded>
+      <root url="file://$PROJECT_DIR$" />
+    </excluded>
+  </library>
+</component>
