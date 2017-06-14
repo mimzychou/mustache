@@ -381,7 +381,7 @@ Outer:
 			case reflect.Interface:
 				v = av.Elem()
 			case reflect.Struct:
-				name = strings.Title(name)
+				name = strings.Title(strings.ToLower(name))
 				ret := av.FieldByName(name)
 				if ret.IsValid() {
 					return ret
